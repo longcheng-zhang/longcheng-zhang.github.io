@@ -23,3 +23,15 @@ a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
 .footer{border-top:1px solid #ececec;color:#777;font-size:13px;padding:24px 8px;text-align:center}
 .note{background:#fff8fc;border-left:4px solid var(--accent);padding:12px 14px;margin-top:16px;border-radius:4px;color:#555}
 @media(max-width:700px){.nav{justify-content:flex-start;overflow:auto;padding-left:16px}.container{padding:32px 16px 55px}.hero h1{font-size:36px}.bio-grid{grid-template-columns:1fr}.profile{max-width:280px}.news li{grid-template-columns:74px 1fr}.cols,.kpis{grid-template-columns:1fr}}
+/* Complete publications page */
+.year-nav{display:flex;flex-wrap:wrap;gap:9px;margin:24px 0 8px;padding:12px 0;border-top:1px solid #eee;border-bottom:1px solid #eee;position:sticky;top:58px;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);z-index:5}
+.year-nav a{font-size:14px;color:#555;border:1px solid #e2e2e2;border-radius:999px;padding:4px 10px;background:#fff}
+.year-nav a:hover{color:var(--accent);border-color:#dcb7d4;text-decoration:none}
+.pub-list{margin-top:12px}
+.pub-item{display:grid;grid-template-columns:42px 1fr;gap:8px;padding:10px 0;border-bottom:1px solid #f0f0f0}
+.pub-num{color:#777;font-variant-numeric:tabular-nums;padding-top:1px}
+.pub-title{font-weight:700;line-height:1.45;margin-bottom:3px}
+.pub-authors{font-size:14px;color:#454545;line-height:1.45}
+.pub-venue{font-size:14px;color:#555;margin-top:2px;font-style:italic}
+.pub-venue .badge{font-style:normal}
+@media(max-width:700px){.year-nav{top:54px}.pub-item{grid-template-columns:34px 1fr}.pub-authors,.pub-venue{font-size:13.5px}}

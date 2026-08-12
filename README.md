@@ -1,23 +1,18 @@
 # Longcheng Zhang Academic Homepage
 
-A lightweight static academic homepage inspired by the clean structure of wangxu.site and rebuilt independently from the former Strikingly site.
+Independent academic homepage for GitHub Pages.
 
-## Local preview
-Open `index.html` in a browser.
+## Files
+- `index.html` — About / homepage
+- `publications.html` — complete 106-publication list
+- `research.html` — research interests
+- `services.html` — academic services
+- `contact.html` — contact and academic profiles
+- `styles.css` — site styling
+- `assets/profile.jpg` — profile photo
 
-## GitHub Pages
-1. Create a public repository, e.g. `longchengzhang.github.io`.
-2. Upload all files in this folder to the repository root.
-3. In GitHub: Settings → Pages → Deploy from a branch → `main` / root.
-4. Your site will be available at `https://<username>.github.io/`.
+## Publish on GitHub Pages
+Upload the files to the root of the repository `longcheng-zhang.github.io`, commit the changes, and use Settings → Pages → Deploy from a branch → `main` → `/(root)`.
 
-## Custom domain
-Add a `CNAME` file containing your domain, then point the domain DNS to GitHub Pages according to GitHub's current documentation.
-
-## Update content
-- Home: `index.html`
-- Publications: `publications.html`
-- Research: `research.html`
-- Services: `services.html`
-- Contact: `contact.html`
-- Styling: `styles.css`
+## Updating publications
+Edit `publications.html`. The entries are numbered 106 to 1 to preserve continuity with the previous homepage.
