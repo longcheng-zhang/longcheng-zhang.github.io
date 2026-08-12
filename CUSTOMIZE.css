@@ -1,0 +1,24 @@
+/* =============================================================
+   LONGCHENG ZHANG HOMEPAGE — EASY VISUAL SETTINGS
+   Change ONLY the values below for normal visual adjustments.
+   ============================================================= */
+:root {
+  /* Main colors */
+  --accent: #d83bb6;          /* active menu / accent color */
+  --link: #1666c1;            /* hyperlink color */
+  --text: #222222;            /* main text color */
+  --muted: #666666;           /* secondary text color */
+  --bg: #ffffff;              /* page background */
+
+  /* Font sizes */
+  --body-size: 16px;          /* normal body text */
+  --nav-size: 15px;           /* top navigation */
+  --name-size: 42px;          /* Longcheng Zhang on home page */
+  --page-title-size: 42px;    /* Publications / Research / etc. */
+  --section-title-size: 31px; /* News / Education */
+  --pub-title-size: 15px;     /* publication title */
+  --pub-text-size: 14px;      /* authors + journal */
+
+  /* Layout */
+  --max: 900px;               /* webpage content width */
+}
