@@ -24,11 +24,7 @@ window.HOME_DATA = {
       "text": "Work on aryl-sulfur-ligand-modulated Ag catalysts for nitrate-to-ammonia conversion published in Nature Communications.",
       "link": ""
     },
-    {
-      "date": "2026",
-      "text": "Work on spontaneous proton supply for ammonia synthesis published in Energy & Environmental Science.",
-      "link": ""
-    },
+    
     {
       "date": "2025",
       "text": "Work on Ru-induced Co(III) sites for nitrate-to-ammonia electrosynthesis published in Energy & Environmental Science.",
