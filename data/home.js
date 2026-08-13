@@ -6,11 +6,11 @@
 window.HOME_DATA = {
   "kpis": [
     {
-      "value": "8,800+",
+      "value": "8,900+",
       "label": "Total citations (Aug. 2026)"
     },
     {
-      "value": "57",
+      "value": "58",
       "label": "h-index (Aug. 2026)"
     },
     {
