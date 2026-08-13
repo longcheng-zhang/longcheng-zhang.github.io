@@ -11,13 +11,13 @@
   --bg: #ffffff;              /* page background */
 
   /* Font sizes */
-  --body-size: 36px;          /* normal body text */
-  --nav-size: 35px;           /* top navigation */
-  --name-size: 42px;          /* Longcheng Zhang on home page */
-  --page-title-size: 42px;    /* Publications / Research / etc. */
-  --section-title-size: 38px; /* News / Education */
-  --pub-title-size: 33px;     /* publication title */
-  --pub-text-size: 30px;      /* authors + journal */
+  --body-size: 30px;          /* normal body text */
+  --nav-size: 28px;           /* top navigation */
+  --name-size: 40px;          /* Longcheng Zhang on home page */
+  --page-title-size: 40px;    /* Publications / Research / etc. */
+  --section-title-size: 32px; /* News / Education */
+  --pub-title-size: 30px;     /* publication title */
+  --pub-text-size: 28px;      /* authors + journal */
 
   /* Layout */
   --max: 900px;               /* webpage content width */
